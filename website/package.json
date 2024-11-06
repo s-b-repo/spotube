@@ -48,7 +48,7 @@
     "@octokit/rest": "^20.0.2",
     "date-fns": "^3.3.1",
     "highlight.js": "11.9.0",
-    "lucide-svelte": "^0.323.0",
+    "lucide-svelte": "^0.453.0",
     "mdsvex-relative-images": "^1.0.3",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-slug": "^6.0.0",
