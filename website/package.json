@@ -42,7 +42,7 @@
     "vite-plugin-tailwind-purgecss": "0.2.0"
   },
   "dependencies": {
-    "@floating-ui/dom": "1.6.1",
+    "@floating-ui/dom": "1.6.11",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@octokit/openapi-types": "^19.1.0",
     "@octokit/rest": "^20.0.2",
